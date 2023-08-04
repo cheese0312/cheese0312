@@ -1,26 +1,56 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeEunGitHub!&fontSize=80"/>
 
-<!--
-**cheese0312/cheese0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-# Tech Stack :
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   
+<h2>📚Tech Stack📚</h2>
+<h4>⚙Platforms & Languages⚙</h4>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
+<img src="https://img.shields.io/badge/Java-66CC66?style=flat-square&logo=java&logoColor=white"/>
 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)&nbsp;
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)   
+<img src="https://img.shields.io/badge/JavaScript-FFCC66?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)      
+<img src="https://img.shields.io/badge/jQuery-333399?style=flat-square&logo=jQuery&logoColor=white"/>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-FF6633?style=flat-square&logo=HTML5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-0099FF?style=flat-square&logo=css3&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring-66CC33?style=flat-square&logo=Spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-339900?style=flat-square&logo=SpringBoot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Thymeleaf-336600?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=Oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=Git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=GitHub&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+ <h4>💜My Portfolio💜</h4>
+
+  
+<a href="https://velog.io/@clwm_032">
+<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+<a href="https://www.notion.so/ca114ca5a74a4555ba5bf0f1a6193642">
+<img src="https://img.shields.io/badge/Notion-330000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 
 </div>
 
