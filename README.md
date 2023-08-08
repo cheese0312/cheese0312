@@ -48,7 +48,7 @@
 <a href="https://velog.io/@clwm_032">
 <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-<a href="https://www.notion.so/ca114ca5a74a4555ba5bf0f1a6193642">
+<a href="https://www.notion.so/40ec69eca0e440aea07266f5b9ba1d02">
 <img src="https://img.shields.io/badge/Notion-330000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
