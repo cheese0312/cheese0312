@@ -31,9 +31,9 @@
 
 <img src="https://img.shields.io/badge/MySQL-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MSSQL-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-3399FF?style=flat-square&logo=MSSQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Postgres-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postgres-3399FF?style=flat-square&logo=Postgres&logoColor=white"/>
 
 <br/>
 
