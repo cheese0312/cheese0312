@@ -31,6 +31,10 @@
 
 <img src="https://img.shields.io/badge/MySQL-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/MSSQL-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postgres-3399FF?style=flat-square&logo=MySQL&logoColor=white"/>
+
 <br/>
 
 <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=Git&logoColor=white"/>
